@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PCPyfSTlhiAQa8H8kUnpENH5c/fYCQWEHvuVgGVtO3o=",
+  "Source": "incidentMgtSystem.API",
+  "BasePath": "_content/incidentMgtSystem.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
